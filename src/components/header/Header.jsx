@@ -72,7 +72,7 @@ const Header = (props) => {
                   activeNav === "#services" ? "nav__link active-link" : "nav__link"
                 }
               >
-                <i className="uil uil-user nav__icon"></i>Services
+                <i className="uil uil-file nav__icon"></i>Services
               </a>
             </li>
          
