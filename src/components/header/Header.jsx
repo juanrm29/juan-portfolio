@@ -50,15 +50,8 @@ const Header = (props) => {
                 <i className="uil uil-estate nav__icon"></i>Home
               </a>
             </li>
-            <li className="nav__item">
-              <a
-                href="https://bit.ly/3WR0QRD"
-                target="_blank"
-                className="nav__link"
-              >
-                <i className="uil uil-estate nav__icon"></i>Resume
-              </a>
-            </li>
+          
+           
             <li className="nav__item">
               <a
                 href="#about"
@@ -68,6 +61,18 @@ const Header = (props) => {
                 }
               >
                 <i className="uil uil-user nav__icon"></i>About
+              </a>
+            </li>
+
+            <li className="nav__item">
+              <a
+                href="#services"
+                onClick={() => setActiveNav("#services")}
+                className={
+                  activeNav === "#services" ? "nav__link active-link" : "nav__link"
+                }
+              >
+                <i className="uil uil-user nav__icon"></i>Services
               </a>
             </li>
          
