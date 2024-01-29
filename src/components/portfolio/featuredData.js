@@ -41,13 +41,5 @@ export const featuredData = [
     featDescription: `  Developed Netflix Clone using Next JS, TailwindCSS, firebase storage and vercel to deploy | Implemented authentication and authorization using custom react hooks and firebase for authentication | Each users can access their own list and used react player to load trailers and IMDB API to fetch those details`,
   },
 
-  {
-    url: "https://youtu.be/oiK1nZ0HkJI",
 
-    gitUrl: "https://github.com/Ameen-Here/portfolio",
-    mainHeader: "Personal Portfolio",
-    mainContent:
-      "My personal portfolio website to showcase my projects and skillset. Created using HTML, CSS, ReactJS, Chakra UI, etc. All my contact details are provided on this website, feel free to reach out.",
-    featDescription: `Responsive across devices | Rendered 3D model using ThreeJS | Dark theme `,
-  },
 ];
