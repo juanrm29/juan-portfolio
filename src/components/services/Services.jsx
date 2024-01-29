@@ -9,7 +9,7 @@ const Services = () => {
     }
 
   return (
-    <sections className="services section mt-5" id="services">
+    <section className="services section mt-5" id="services">
           <h2 className="section__title">Services</h2>
         <span className="section__subtitle">What i offer</span>
 
@@ -204,7 +204,7 @@ const Services = () => {
                 </div>
             </div>
         </div>
-    </sections>
+    </section>
   )
 }
 

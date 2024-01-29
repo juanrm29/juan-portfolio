@@ -5,10 +5,10 @@ import Home from './components/home/Home';
 import About from './components/about/About';
 import Skills from './components/skills/Skills';
 import Services from './components/services/Services';
-import Portfolio from "./components/portfolio/Portfolio";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 import ScrollUp from "./components/scrollToUp/ScrollUp";
+import Work from './components/work/Work';
 
 
 
@@ -30,7 +30,7 @@ function App() {
         <About />
         <Skills />
         <Services />
-        <Portfolio />
+        <Work/>
         <Contact />
       </main>
 
