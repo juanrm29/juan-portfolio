@@ -10,6 +10,7 @@ export const projectsData = [
       id: 1,
       image: Work1,
       title: "Note Taking App - Jution",
+      sub: "Next.js, React, Convex",
       category: "web",
       link: "https://jution.vercel.app/"
     },
@@ -17,6 +18,7 @@ export const projectsData = [
       id: 2,
       image: Work2,
       title: "SiCepat Redesign",
+      sub: "Figma",
       category: "UI/UX",
       link: "https://dribbble.com/shots/23537700-Sicepat-redesign"
     },
@@ -24,6 +26,7 @@ export const projectsData = [
       id: 3,
       image: Work3,
       title: "Habit Tracker App Design",
+      sub: "Figma",
       category: "UI/UX",
       link:"https://dribbble.com/shots/11085787-Building-Habit-Apps"
     },
@@ -31,14 +34,17 @@ export const projectsData = [
       id: 4,
       image: Work4,
       title: "Muslim Prayer App Design",
+      sub: "Figma",
       category: "UI/UX",
       link: "https://dribbble.com/shots/15929635-Muslim-App-Design"
     },
     {
       id: 5,
       image: Work5,
-      title: "Web design",
+      title: "Event Launch Page",
+      sub: "Next.js, React, Typescript",
       category: "web",
+      link: "https://launchpage-front.vercel.app"
     },
   ];
 
