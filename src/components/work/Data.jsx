@@ -2,7 +2,7 @@ import Work1 from "../../assets/jution.png";
 import Work2 from "../../assets/sicepatredesign.png";
 import Work3 from "../../assets/image_processing20200417-11313-1r2z9b0.png";
 import Work4 from "../../assets/561be1d39de263f0bb351651c2aba0c3.png";
-import Work5 from "../../assets/work5.jpg";
+import Work5 from "../../assets/Cuplikan layar 2024-01-31 050058.png";
 
 
 export const projectsData = [
