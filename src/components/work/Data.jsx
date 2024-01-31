@@ -21,7 +21,7 @@ export const projectsData = [
       title: "Personal Blog",
       sub: "MERN (MongoDB, Express, React, Node.js)",
       category: "web",
-      link: "https://juansblog.netlify.app/"
+      link: "https://juan-blogs.netlify.app/"
     },
     {
       id: 2,
